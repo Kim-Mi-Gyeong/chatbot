@@ -7,6 +7,7 @@ git add . (모든파일 스테이징)
 2) commit: 그제서야 기록
 git commit -m "테스트"
 3) push: 리모트에 커밋된거 표시
+git pus origin main
 
 1. 문제해결
    1) 에러메세지 : Git: fatal: 'origin' does not appear to be a git repository --> https://jjunii486.tistory.com/153
