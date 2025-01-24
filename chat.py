@@ -449,5 +449,3 @@ if st.button('질문하기') and user_query:
     st.text("Chat History")
     st.text('--------------------------------------------')
     st.text("\n".join(st.session_state.chat_history))
-
-
