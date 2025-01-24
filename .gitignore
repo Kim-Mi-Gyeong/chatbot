@@ -1,0 +1,5 @@
+venv
+.vscode
+__pycache__
+chat2.py.txt
+get_namuwiki_docs2.py.txt
